@@ -1,0 +1,13 @@
+C:\Users\PTK\Desktop\provadoka\obj\Debug\netcoreapp3.1\provadoka.csprojAssemblyReference.cache
+C:\Users\PTK\Desktop\provadoka\obj\Debug\netcoreapp3.1\provadoka.AssemblyInfoInputs.cache
+C:\Users\PTK\Desktop\provadoka\obj\Debug\netcoreapp3.1\provadoka.AssemblyInfo.cs
+C:\Users\PTK\Desktop\provadoka\obj\Debug\netcoreapp3.1\provadoka.csproj.CoreCompileInputs.cache
+C:\Users\PTK\Desktop\provadoka\bin\Debug\netcoreapp3.1\provadoka.exe
+C:\Users\PTK\Desktop\provadoka\bin\Debug\netcoreapp3.1\provadoka.deps.json
+C:\Users\PTK\Desktop\provadoka\bin\Debug\netcoreapp3.1\provadoka.runtimeconfig.json
+C:\Users\PTK\Desktop\provadoka\bin\Debug\netcoreapp3.1\provadoka.runtimeconfig.dev.json
+C:\Users\PTK\Desktop\provadoka\bin\Debug\netcoreapp3.1\provadoka.dll
+C:\Users\PTK\Desktop\provadoka\bin\Debug\netcoreapp3.1\provadoka.pdb
+C:\Users\PTK\Desktop\provadoka\obj\Debug\netcoreapp3.1\provadoka.dll
+C:\Users\PTK\Desktop\provadoka\obj\Debug\netcoreapp3.1\provadoka.pdb
+C:\Users\PTK\Desktop\provadoka\obj\Debug\netcoreapp3.1\provadoka.genruntimeconfig.cache
